@@ -1,0 +1,6 @@
+.vs
+.vscode
+settings.json
+tasks.json
+output/
+queue.cpp
